@@ -1,0 +1,26 @@
+{
+  "name": "oc-presup-crm",
+  "version": "1.0.0",
+  "description": "CRM para seguimiento de presupuestos de reparación mecánica y siniestros automotores",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "start-prod": "npm run build && npm run start",
+    "start-production": "start-server.ps1",
+    "start-production-bat": "start-server.bat",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "clean-and-install": "npm run clean && npm run install-all",
+    "clean": "rimraf node_modules server/node_modules client/node_modules"
+  },
+  "keywords": ["crm", "presupuestos", "automotores", "mongodb"],
+  "author": "OC Presup CRM",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "rimraf": "^5.0.5"
+  }
+}

@@ -1,0 +1,508 @@
+[
+  {
+    "referencia": "9298122",
+    "fecha": "2025-08-05T00:00:00.000Z",
+    "cta": "101235",
+    "nombre": "SALVADOR RUBEN ANTONIO",
+    "taller": "2",
+    "usuario": "ppacho",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "1/9808647180",
+        "concepto": "CAJA DE AGUA",
+        "cantidad": 1,
+        "costo": 154721.64,
+        "pvp": 234426.72,
+        "importe": 234426.72
+      }
+    ],
+    "costo": 154721.64,
+    "pvp": 234426.72,
+    "importe": 234426.72
+  },
+  {
+    "referencia": "9287802",
+    "fecha": "2025-08-04T00:00:00.000Z",
+    "cta": "101410",
+    "nombre": "HOSPITAL JOSE MARIA GOMENDIO",
+    "taller": "9",
+    "usuario": "frojas",
+    "descripcionSiniestro": "SINIESTRO - PARTICULAR",
+    "piezas": [
+      {
+        "pieza": "1/0349L5",
+        "concepto": "TUBO \"BY-PASS\"",
+        "cantidad": 1,
+        "costo": 12261.85,
+        "pvp": 18578.56,
+        "importe": 18578.56
+      }
+    ],
+    "costo": 12261.85,
+    "pvp": 18578.56,
+    "importe": 18578.56
+  },
+  {
+    "referencia": "9345930",
+    "fecha": "2025-08-14T00:00:00.000Z",
+    "cta": "101635",
+    "nombre": "FARIAS IGNACIO",
+    "taller": "42",
+    "usuario": "rferraro",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "4/24001219",
+        "concepto": "MANO DE OBRA TALLER",
+        "cantidad": 4,
+        "costo": 1.00,
+        "pvp": 69000.00,
+        "importe": 276000.00
+      }
+    ],
+    "costo": 1.00,
+    "pvp": 69000.00,
+    "importe": 276000.00
+  },
+  {
+    "referencia": "9345931",
+    "fecha": "2025-08-14T00:00:00.000Z",
+    "cta": "101635",
+    "nombre": "FARIAS IGNACIO",
+    "taller": "42",
+    "usuario": "rferraro",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "6/2HT-971-092",
+        "concepto": "JUNTA COLECTOR ESCAPE",
+        "cantidad": 1,
+        "costo": 45000.00,
+        "pvp": 67500.00,
+        "importe": 67500.00
+      }
+    ],
+    "costo": 45000.00,
+    "pvp": 67500.00,
+    "importe": 67500.00
+  },
+  {
+    "referencia": "9345932",
+    "fecha": "2025-08-14T00:00:00.000Z",
+    "cta": "101635",
+    "nombre": "FARIAS IGNACIO",
+    "taller": "42",
+    "usuario": "rferraro",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "ACEITE-001",
+        "concepto": "ACEITE MOTOR 9000",
+        "cantidad": 1,
+        "costo": 25000.00,
+        "pvp": 37500.00,
+        "importe": 37500.00
+      }
+    ],
+    "costo": 25000.00,
+    "pvp": 37500.00,
+    "importe": 37500.00
+  },
+  {
+    "referencia": "9345933",
+    "fecha": "2025-08-15T00:00:00.000Z",
+    "cta": "101640",
+    "nombre": "GONZALEZ MARIA",
+    "taller": "52",
+    "usuario": "mario.gomes",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "DIST-001",
+        "concepto": "DISTRIBUIDOR ENT",
+        "cantidad": 1,
+        "costo": 180000.00,
+        "pvp": 270000.00,
+        "importe": 270000.00
+      }
+    ],
+    "costo": 180000.00,
+    "pvp": 270000.00,
+    "importe": 270000.00
+  },
+  {
+    "referencia": "9345934",
+    "fecha": "2025-08-15T00:00:00.000Z",
+    "cta": "101645",
+    "nombre": "LOPEZ CARLOS",
+    "taller": "1",
+    "usuario": "bmamoli",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "CHAPA-001",
+        "concepto": "CHAPA Y PINTURA",
+        "cantidad": 1,
+        "costo": 0.00,
+        "pvp": 0.00,
+        "importe": 150000.00
+      }
+    ],
+    "costo": 0.00,
+    "pvp": 0.00,
+    "importe": 150000.00
+  },
+  {
+    "referencia": "9345935",
+    "fecha": "2025-08-16T00:00:00.000Z",
+    "cta": "101650",
+    "nombre": "RODRIGUEZ ANA",
+    "taller": "10",
+    "usuario": "farneri",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "CABLE-001",
+        "concepto": "JUEGO CABLE",
+        "cantidad": 1,
+        "costo": 35000.00,
+        "pvp": 52500.00,
+        "importe": 52500.00
+      }
+    ],
+    "costo": 35000.00,
+    "pvp": 52500.00,
+    "importe": 52500.00
+  },
+  {
+    "referencia": "9345936",
+    "fecha": "2025-08-16T00:00:00.000Z",
+    "cta": "101655",
+    "nombre": "MARTINEZ JUAN",
+    "taller": "2",
+    "usuario": "dtridone",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "MOD-001",
+        "concepto": "MODULO CNTRL DE ENERGIA DE# BM",
+        "cantidad": 1,
+        "costo": 120000.00,
+        "pvp": 180000.00,
+        "importe": 180000.00
+      }
+    ],
+    "costo": 120000.00,
+    "pvp": 180000.00,
+    "importe": 180000.00
+  },
+  {
+    "referencia": "9345937",
+    "fecha": "2025-08-17T00:00:00.000Z",
+    "cta": "101660",
+    "nombre": "PEREZ LUCIA",
+    "taller": "9",
+    "usuario": "vcasamassima",
+    "descripcionSiniestro": "SINIESTRO - PARTICULAR",
+    "piezas": [
+      {
+        "pieza": "PUERTA-001",
+        "concepto": "PUERTA TR.IZ.",
+        "cantidad": 1,
+        "costo": 80000.00,
+        "pvp": 120000.00,
+        "importe": 120000.00
+      }
+    ],
+    "costo": 80000.00,
+    "pvp": 120000.00,
+    "importe": 120000.00
+  },
+  {
+    "referencia": "9345938",
+    "fecha": "2025-08-17T00:00:00.000Z",
+    "cta": "101665",
+    "nombre": "GARCIA PEDRO",
+    "taller": "42",
+    "usuario": "rabadie",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "BUJIA-001",
+        "concepto": "BUJIA ENCENDIDO",
+        "cantidad": 1,
+        "costo": 15000.00,
+        "pvp": 22500.00,
+        "importe": 22500.00
+      }
+    ],
+    "costo": 15000.00,
+    "pvp": 22500.00,
+    "importe": 22500.00
+  },
+  {
+    "referencia": "9345939",
+    "fecha": "2025-08-18T00:00:00.000Z",
+    "cta": "101670",
+    "nombre": "SANCHEZ MARTA",
+    "taller": "52",
+    "usuario": "marcatelli",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "LISTON-001",
+        "concepto": "LISTON LUC",
+        "cantidad": 1,
+        "costo": 25000.00,
+        "pvp": 37500.00,
+        "importe": 37500.00
+      }
+    ],
+    "costo": 25000.00,
+    "pvp": 37500.00,
+    "importe": 37500.00
+  },
+  {
+    "referencia": "9345940",
+    "fecha": "2025-08-18T00:00:00.000Z",
+    "cta": "101675",
+    "nombre": "TORRES ROBERTO",
+    "taller": "1",
+    "usuario": "ppacho",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "RETRO-001",
+        "concepto": "RETROVISOR EXTERIOR DR.",
+        "cantidad": 1,
+        "costo": 45000.00,
+        "pvp": 67500.00,
+        "importe": 67500.00
+      }
+    ],
+    "costo": 45000.00,
+    "pvp": 67500.00,
+    "importe": 67500.00
+  },
+  {
+    "referencia": "9345941",
+    "fecha": "2025-08-19T00:00:00.000Z",
+    "cta": "101680",
+    "nombre": "FLORES CARMEN",
+    "taller": "10",
+    "usuario": "frojas",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "CERR-001",
+        "concepto": "CERRADURA",
+        "cantidad": 1,
+        "costo": 30000.00,
+        "pvp": 45000.00,
+        "importe": 45000.00
+      }
+    ],
+    "costo": 30000.00,
+    "pvp": 45000.00,
+    "importe": 45000.00
+  },
+  {
+    "referencia": "9345942",
+    "fecha": "2025-08-19T00:00:00.000Z",
+    "cta": "101685",
+    "nombre": "RAMIREZ DIEGO",
+    "taller": "2",
+    "usuario": "rferraro",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "PARA-001",
+        "concepto": "PARAGOLPES TR.A PINTAR",
+        "cantidad": 1,
+        "costo": 60000.00,
+        "pvp": 90000.00,
+        "importe": 90000.00
+      }
+    ],
+    "costo": 60000.00,
+    "pvp": 90000.00,
+    "importe": 90000.00
+  },
+  {
+    "referencia": "9345943",
+    "fecha": "2025-08-20T00:00:00.000Z",
+    "cta": "101690",
+    "nombre": "MORALES ELENA",
+    "taller": "9",
+    "usuario": "mario.gomes",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "PAST-001",
+        "concepto": "JUEGO de PASTILLAS",
+        "cantidad": 1,
+        "costo": 20000.00,
+        "pvp": 30000.00,
+        "importe": 30000.00
+      }
+    ],
+    "costo": 20000.00,
+    "pvp": 30000.00,
+    "importe": 30000.00
+  },
+  {
+    "referencia": "9345944",
+    "fecha": "2025-08-20T00:00:00.000Z",
+    "cta": "101695",
+    "nombre": "CASTRO FERNANDO",
+    "taller": "42",
+    "usuario": "bmamoli",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "CORREA-001",
+        "concepto": "KIT CORREA DISTRIBUCION",
+        "cantidad": 1,
+        "costo": 75000.00,
+        "pvp": 112500.00,
+        "importe": 112500.00
+      }
+    ],
+    "costo": 75000.00,
+    "pvp": 112500.00,
+    "importe": 112500.00
+  },
+  {
+    "referencia": "9345945",
+    "fecha": "2025-08-21T00:00:00.000Z",
+    "cta": "101700",
+    "nombre": "RUIZ ISABEL",
+    "taller": "52",
+    "usuario": "farneri",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "PAST-DEL-001",
+        "concepto": "PASTILLA DE FRENO DELANTERA",
+        "cantidad": 1,
+        "costo": 18000.00,
+        "pvp": 27000.00,
+        "importe": 27000.00
+      }
+    ],
+    "costo": 18000.00,
+    "pvp": 27000.00,
+    "importe": 27000.00
+  },
+  {
+    "referencia": "9345946",
+    "fecha": "2025-08-21T00:00:00.000Z",
+    "cta": "101705",
+    "nombre": "HERRERA MIGUEL",
+    "taller": "1",
+    "usuario": "dtridone",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "DISCO-DEL-001",
+        "concepto": "DISCO DE FRENO DELANTERO",
+        "cantidad": 1,
+        "costo": 35000.00,
+        "pvp": 52500.00,
+        "importe": 52500.00
+      }
+    ],
+    "costo": 35000.00,
+    "pvp": 52500.00,
+    "importe": 52500.00
+  },
+  {
+    "referencia": "9345947",
+    "fecha": "2025-08-22T00:00:00.000Z",
+    "cta": "101710",
+    "nombre": "JIMENEZ ROSA",
+    "taller": "10",
+    "usuario": "vcasamassima",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "SOP-001",
+        "concepto": "JGO.SOPORTE",
+        "cantidad": 1,
+        "costo": 40000.00,
+        "pvp": 60000.00,
+        "importe": 60000.00
+      }
+    ],
+    "costo": 40000.00,
+    "pvp": 60000.00,
+    "importe": 60000.00
+  },
+  {
+    "referencia": "9345948",
+    "fecha": "2025-08-22T00:00:00.000Z",
+    "cta": "101715",
+    "nombre": "DIAZ ALBERTO",
+    "taller": "2",
+    "usuario": "rabadie",
+    "descripcionSiniestro": "MECANICA",
+    "piezas": [
+      {
+        "pieza": "MOTOR-ARR-001",
+        "concepto": "MOTOR ARRANQUE",
+        "cantidad": 1,
+        "costo": 95000.00,
+        "pvp": 142500.00,
+        "importe": 142500.00
+      }
+    ],
+    "costo": 95000.00,
+    "pvp": 142500.00,
+    "importe": 142500.00
+  },
+  {
+    "referencia": "9345949",
+    "fecha": "2025-08-23T00:00:00.000Z",
+    "cta": "101720",
+    "nombre": "ROMERO PATRICIA",
+    "taller": "9",
+    "usuario": "marcatelli",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "ALTAVOZ-001",
+        "concepto": "ALTAVOZ",
+        "cantidad": 1,
+        "costo": 12000.00,
+        "pvp": 18000.00,
+        "importe": 18000.00
+      }
+    ],
+    "costo": 12000.00,
+    "pvp": 18000.00,
+    "importe": 18000.00
+  },
+  {
+    "referencia": "9345950",
+    "fecha": "2025-08-23T00:00:00.000Z",
+    "cta": "101725",
+    "nombre": "NAVARRO GUSTAVO",
+    "taller": "42",
+    "usuario": "ppacho",
+    "descripcionSiniestro": "SINIESTRO",
+    "piezas": [
+      {
+        "pieza": "GRILLA-001",
+        "concepto": "GRILLA FRONTAL",
+        "cantidad": 1,
+        "costo": 55000.00,
+        "pvp": 82500.00,
+        "importe": 82500.00
+      }
+    ],
+    "costo": 55000.00,
+    "pvp": 82500.00,
+    "importe": 82500.00
+  }
+]

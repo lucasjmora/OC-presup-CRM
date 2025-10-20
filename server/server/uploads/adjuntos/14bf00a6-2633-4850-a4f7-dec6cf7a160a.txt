@@ -1,0 +1,5 @@
+Este es un archivo de prueba para validar la funcionalidad de adjuntos en presupuestos.
+
+Fecha de prueba: 19/10/2025
+Sistema: OC Presup CRM
+

@@ -1,0 +1,97 @@
+# Excluir node_modules de OneDrive
+node_modules/
+*/node_modules/
+
+# Excluir archivos de build
+build/
+dist/
+
+# Excluir logs
+*.log
+
+# Excluir archivos temporales
+.tmp/
+temp/
+
+# Excluir archivos de configuración local
+.env
+.env.local
+
+# Excluir archivos de cache
+.cache/
+.npm/
+.eslintcache/
+
+# Excluir archivos de IDE
+.vscode/
+.idea/
+
+# Excluir archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Excluir archivos con caracteres problemáticos para OneDrive
+*~*
+*~
+~*
+
+# Excluir archivos de configuración de npm y otros paquetes
+.npmrc
+.npm/
+.npmrc
+package-lock.json
+yarn.lock
+
+# Excluir archivos de cache y configuración de herramientas
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.storybook-out/
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Excluir archivos de configuración local
+.env*
+*.local
+
+# Excluir archivos de logs y debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Excluir archivos temporales y de build
+.tmp/
+temp/
+tmp/
+build/
+dist/
+out/
+public/
+
+# Excluir archivos de coverage y testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Excluir archivos de configuración de herramientas
+.eslintcache
+.jscsrc
+.jshintrc
+.prettierrc*
+.editorconfig
+
+# Excluir archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Excluir archivos específicos problemáticos
+configstore/
+update-notifier-*.json
